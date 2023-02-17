@@ -1,0 +1,2 @@
+public class semenar02 {
+}
