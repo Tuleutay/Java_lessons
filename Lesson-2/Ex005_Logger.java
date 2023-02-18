@@ -1,4 +1,4 @@
-package Lesson_02;
+
 import java.io.IOException;
 import java.util.logging.*;
 
@@ -11,10 +11,10 @@ public class Ex005_Logger {
         //logger.addHandler(ch);
         logger.addHandler(fh);
         
-        SimpleFormatter sFormat = new SimpleFormatter();
-        //XMLFormatter xml = new XMLFormatter();
-        fh.setFormatter(sFormat);
-        //fh.setFormatter(xml);
+        //SimpleFormatter sFormat = new SimpleFormatter();
+        XMLFormatter xml = new XMLFormatter();
+        //fh.setFormatter(sFormat);
+        fh.setFormatter(xml);
         
         //logger.setLevel(Level.INFO);
         logger.log(Level.WARNING, "Тестовое логирование 1");
