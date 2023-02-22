@@ -9,9 +9,9 @@ import java.util.logging.SimpleFormatter;
 
 public class task_5 {
     public static void main(String[] args) {
-        String dir_path = ".";
-        String log_name = "eror_log.txt";
-        String filedir_name = "file.txt";
+        String dir_path = "C:\\Users\\tooly\\Desktop\\GB\\Java\\Java_Lessons\\test";
+        String log_name = "C:\\Users\\tooly\\Desktop\\GB\\Java\\Java_Lessons\\test\\error_log.txt";
+        String filedir_name = "C:\\Users\\tooly\\Desktop\\GB\\Java\\Java_Lessons\\test\\file.txt";
         try {
             writeToFile(stringsFiles(),filedir_name);
         } catch (Exception e){
@@ -22,7 +22,7 @@ public class task_5 {
     }
 
     public static String[] stringsFiles(){
-        File file = new File("./test/");
+        File file = new File(".");
         String[] list = file.list();
         return list;
     }

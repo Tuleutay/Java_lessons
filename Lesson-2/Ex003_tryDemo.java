@@ -6,7 +6,7 @@ public class Ex003_tryDemo {
         String line = "empty";
         try {
             String pathProject = System.getProperty("user.dir");
-            String pathFile = pathProject.concat("/file.txt");
+            String pathFile = pathProject.concat("\\file.txt");
             File file = new File(pathFile);
 
             if (file.createNewFile()) {
@@ -28,9 +28,9 @@ public class Ex003_tryDemo {
                 fileWriter.append("new line");
                 fileWriter.flush();
                 fileWriter.close();
-                // BufferedReader bufReader = new BufferedReader(new FileReader(file));
-                // line = bufReader.readLine();
-                // bufReader.close();
+                 BufferedReader bufReader = new BufferedReader(new FileReader(file));
+                 line = bufReader.readLine();
+                 bufReader.close();
             }
         } catch (Exception e) {
             //e.printStackTrace();

@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79592e9a-4df3-4244-a9d9-46213ccfcdc7" name="Changes" comment="2_semenar">
-      <change afterPath="$PROJECT_DIR$/Semenar-2/task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semenar-2/task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-2/111FileGGG.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-2/Ex0034_getProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-2/Ex006_log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-2/NewW.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-2/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pathFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/newFile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semenar-2/task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semenar-2/task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Lessons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Lessons.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson-2/Ex002_fileSystemDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson-2/Ex002_fileSystemDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson-2/Ex003_tryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson-2/Ex003_tryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson-2/Ex004_bFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson-2/Ex004_bFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semenar-2/task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semenar-2/task_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.bin" beforeDir="false" afterPath="$PROJECT_DIR$/test.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +52,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/tooly/Desktop/GB/Java/Java_Lesson",
+    "last_opened_file_path": "C:/Users/tooly/Desktop/GB/Java/Java_ht",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -79,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676704776467</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2_semenar">
+      <created>1676752537632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676752537632</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -95,6 +112,14 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.OutOfMemoryError" package="java.lang" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="3" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
