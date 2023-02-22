@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79592e9a-4df3-4244-a9d9-46213ccfcdc7" name="Changes" comment="2_semenar">
-      <change afterPath="$PROJECT_DIR$/Lesson-2/111FileGGG.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson-2/Ex0034_getProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson-2/Ex006_log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson-2/NewW.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson-2/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pathFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/newFile.txt" afterDir="false" />
+    <list default="true" id="79592e9a-4df3-4244-a9d9-46213ccfcdc7" name="Changes" comment="Lesson3">
+      <change afterPath="$PROJECT_DIR$/Lesson_4/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semenar-3/sem_03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java_Lessons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Lessons.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson-2/Ex002_fileSystemDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson-2/Ex002_fileSystemDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson-2/Ex003_tryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson-2/Ex003_tryDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson-2/Ex004_bFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson-2/Ex004_bFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semenar-2/task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semenar-2/task_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.bin" beforeDir="false" afterPath="$PROJECT_DIR$/test.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +41,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "19",
     "last_opened_file_path": "C:/Users/tooly/Desktop/GB/Java/Java_ht",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
@@ -59,6 +49,11 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -96,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676752537632</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lesson_03">
+      <created>1677063650881</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677063650881</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Lesson3">
+      <created>1677063734516</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677063734516</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -104,7 +113,9 @@
     <MESSAGE value="fc" />
     <MESSAGE value="fileSstem" />
     <MESSAGE value="2_semenar" />
-    <option name="LAST_COMMIT_MESSAGE" value="2_semenar" />
+    <MESSAGE value="Lesson_03" />
+    <MESSAGE value="Lesson3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
