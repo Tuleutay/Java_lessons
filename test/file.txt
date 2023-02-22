@@ -1,0 +1,14 @@
+.git
+.gitignore
+.idea
+file.txt
+files
+Java_Lessons.iml
+Lesson-1
+Lesson-2
+log.txt
+out
+pathFile.txt
+Semenar-2
+test
+test.bin
