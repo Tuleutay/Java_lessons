@@ -15,5 +15,13 @@ public class Ex004_TreeMap {
         // {1=один, 3=три, 4=четыре, 6=шесть}
         tMap.put(2,"два"); System.out.println(tMap);
         // {1=один, 2=два, 3=три, 4=четыре, 6=шесть}
+        System.out.println(tMap.descendingKeySet());
+        // [6, 4, 3, 2, 1]
+        System.out.println(tMap.descendingMap());
+        // {6=шесть, 4=четыре, 3=три, 2=два, 1=один}
+        System.out.println(tMap.headMap(3,true));
+        //{1=один, 2=два, 3=три}
+
+
     }
 }

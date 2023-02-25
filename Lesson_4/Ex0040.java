@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Ex004 {
+public class Ex0040{
     public static void main(String[] args) {
         Stack<Integer> stack = new Stack<>();
         stack.push(1);
