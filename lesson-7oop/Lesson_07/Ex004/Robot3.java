@@ -75,10 +75,10 @@ public class Robot3 {
 
     // #endregion
 
-    // #region правильные конструкторы
+    //#region правильные конструкторы
 
     public Robot3(String name) {
-        this(name, 1);
+        this(name, 78);
     }
 
     public Robot3() {

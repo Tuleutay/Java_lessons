@@ -7,10 +7,10 @@ public class PointMethod {
 
     public static void main(String[] args) {
 
-        int ax = 0;
+        int ax = 2;
         int ay = 0;
-        int bx = 0;
-        int by = 1;
+        int bx = 2;
+        int by = 9;
         System.out.println(distance(ax, ay, bx, by));
         // Создать точку 
         // Печать точки
