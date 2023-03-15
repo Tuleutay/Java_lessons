@@ -1,6 +1,6 @@
 package Lesson_08.Ex004;
 
-public class Druid extends BaseHero {
+public class  Druid extends BaseHero {
 
     public Druid(String name, int hp) {
         super(name, hp);

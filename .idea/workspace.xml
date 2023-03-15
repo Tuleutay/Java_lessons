@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79592e9a-4df3-4244-a9d9-46213ccfcdc7" name="Changes" comment="Lesson OOP 1">
+    <list default="true" id="79592e9a-4df3-4244-a9d9-46213ccfcdc7" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson-7oop/Lesson_07/Ex001/PointMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-7oop/Lesson_07/Ex001/PointMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson-7oop/Lesson_07/Ex004/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-7oop/Lesson_07/Ex004/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson-7oop/Lesson_07/Ex004/Robot3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-7oop/Lesson_07/Ex004/Robot3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson-7oop/Lesson_07/Ex007/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-7oop/Lesson_07/Ex007/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-8oop/Lesson_08/Ex004/Druid.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-8oop/Lesson_08/Ex004/Druid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +22,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="62d01abc-11a0-4ea1-885c-b482667dc119" />
+        <option name="url" value="https://github.com/Tuleutay/Java_lessons.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -55,7 +65,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/tooly/Desktop/GB/Java/ObjectOrientedDesign-Seminar",
+    "last_opened_file_path": "C:/Users/tooly/Desktop/GB/Java/Примеры проекты/javaoop",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -211,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678518503205</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1678771444781</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678771444781</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -223,7 +240,8 @@
     <MESSAGE value="Lesson3" />
     <MESSAGE value="Lesson5" />
     <MESSAGE value="Lesson OOP 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson OOP 1" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
