@@ -20,7 +20,7 @@ public class Program {
         
         //#region проблема решена
 
-        // audioStorage.add(new VideoContent("jfvjdhdf7768.mp4")); 
+        // audioStorage.add(new VideoContent("jfvjdhdf7768.mp4"));
         // videoStorage.add(new AudioContent("Дорожка 005.wav")); 
 
         //#endregion
@@ -39,5 +39,11 @@ public class Program {
             System.out.println(stringRepository.get(i));
         }
         //#endregion
+
+        for (Content string: audioStorage.ds
+             ) {
+            System.out.println(string);
+
+        }
     }
 }

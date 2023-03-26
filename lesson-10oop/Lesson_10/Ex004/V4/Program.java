@@ -1,6 +1,9 @@
 package Lesson_10.Ex004.V4;
 
 public class Program {
+
+
+
     public static void main(String[] args) {
         Repository<AudioContent> mGlinka = new Repository<>("mGlinka");
         mGlinka.add(new AudioContent("ПРОИЗВЕДЕНИЕ mGlinka 1"));
@@ -29,17 +32,18 @@ public class Program {
             System.out.println(pTchaikovsky.get(index));
         }
 
-        // Repository<VideoContent> videoContent = new Repository<>("videoContent");
-        // videoContent.add(new VideoContent("ВИДЕО 1"));
-        // videoContent.add(new VideoContent("ВИДЕО 2"));
+         Repository<VideoContent> videoContent = new Repository<>("videoContent");
+         videoContent.add(new VideoContent("ВИДЕО 1"));
+         videoContent.add(new VideoContent("ВИДЕО 2"));
         
-        // pTchaikovsky.merge(videoContent);
+         //pTchaikovsky.merge(videoContent);
 
-        // for (int index = 0; index < pTchaikovsky.count(); index++) {
-        //     System.out.println(pTchaikovsky.get(index));
-        // }
+//         for (int index = 0; index < pTchaikovsky.count(); index++) {
+//             System.out.println(pTchaikovsky.get(index));
+//         }
 
 
 
     }
+
 }
